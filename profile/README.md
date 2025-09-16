@@ -18,7 +18,7 @@
 **Identity MCP Server** • `TypeScript`  
 *OAuth2-powered identity management for MCP*
 
-### 🌐 [website](https://github.com/hyprmcp/website)
+### 🌐 [website](https://hyprmcp.com)
 **Documentation Hub** • `Astro`  
 *Comprehensive MCP resources and guides*
 
