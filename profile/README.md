@@ -2,6 +2,8 @@
 
 > Building the future of **Model Context Protocol** infrastructure
 
+🌐 **[Visit our website: hyprmcp.com](https://hyprmcp.com)**
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -18,7 +20,7 @@
 **Identity MCP Server** • `TypeScript`  
 *OAuth2-powered identity management for MCP*
 
-### 🌐 [website](https://hyprmcp.com)
+### 🌐 [website](https://github.com/hyprmcp/website)
 **Documentation Hub** • `Astro`  
 *Comprehensive MCP resources and guides*
 
