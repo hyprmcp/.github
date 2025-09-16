@@ -7,15 +7,15 @@
 <div align="center">
 
 ### 🛡️ [mcp-gateway](https://github.com/hyprmcp/mcp-gateway)
-**OAuth-enabled MCP Gateway** • `⭐ 23 stars` • `Go`  
+**OAuth-enabled MCP Gateway** • `Go`  
 *1-click plug-in OAuth authorization with dynamic client registration*
 
 ### 📋 [mcp-install-instructions-generator](https://github.com/hyprmcp/mcp-install-instructions-generator) 
-**Installation Guide Generator** • `⭐ 5 stars` • `TypeScript`  
+**Installation Guide Generator** • `TypeScript`  
 *Generate MCP server setup for Cursor, VS Code, Claude & more*
 
 ### 🔍 [mcp-who-am-i](https://github.com/hyprmcp/mcp-who-am-i)
-**Identity MCP Server** • `⭐ 1 star` • `TypeScript`  
+**Identity MCP Server** • `TypeScript`  
 *OAuth2-powered identity management for MCP*
 
 ### 🌐 [website](https://github.com/hyprmcp/website)
